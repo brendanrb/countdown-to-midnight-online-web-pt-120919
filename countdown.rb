@@ -11,7 +11,7 @@ end
 
 def countdown_with_sleep(x)
   while x > 0
-  sleep(3.seconds)
+  sleep(3)
   x -= 1
 end
 
